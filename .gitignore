@@ -84,6 +84,7 @@ build-iPhoneSimulator/
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+/frontend/node_modules
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
